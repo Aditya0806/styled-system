@@ -27,7 +27,7 @@ const theme = {
     256,
   ],
   colors: {
-    primary: '#07c',
+    primary: '#0775c',
     secondard: '#05a',
     highlight: '#e10',
   }
